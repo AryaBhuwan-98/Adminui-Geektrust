@@ -68,7 +68,8 @@
     position: relative;
   }
   body {
-    background-color:blueviolet;
+    /* background-color:blueviolet; */
+    margin: 0;
   }
   .search {
     background-color: orange;
